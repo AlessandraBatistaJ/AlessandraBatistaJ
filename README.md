@@ -1,6 +1,6 @@
 # 👋 Oi! Eu sou a Alessandra Batista
 
-🎨 Desenvolvedora Front-End em construção  
+🎨 Desenvolvedora Web em construção  
 💡 Apaixonada por criar experiências digitais que façam sentido  
 🚀 Transformando café, código e curiosidade em interfaces incríveis
 
