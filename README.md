@@ -51,7 +51,7 @@ Estou sempre atualizando meu GitHub com novos desafios, estudos e projetos prát
 Se você curte tecnologia, acessibilidade, design ou quer conversar sobre projetos, bora se conectar!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alessandra-batista-52195724b/)
-- 💌 Email: alessandra.seuemail@gmail.com
+- 💌 Email: alessandra.batista.0305@gmail.com
 
 ---
 
