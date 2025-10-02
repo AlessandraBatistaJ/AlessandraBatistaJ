@@ -11,7 +11,7 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e mergulhei de cabeça no universo do desenvolvimento web.  
 Venho construindo minha trajetória com muito estudo, prática e vontade de crescer — participei de bootcamps como o da **Proz**, além de integrar comunidades como a **Reprograma** e a **Programaria**, que me inspiram a seguir firme e conectada com outras mulheres na tecnologia.
 
-Aqui no GitHub, compartilho um pouco do que venho aprendendo. E o melhor: **ainda estou só começando**. 👣✨
+Aqui no GitHub, compartilho um pouco do que venho aprendendo. 
 
 ---
 
@@ -53,6 +53,4 @@ Se você curte tecnologia, acessibilidade, design ou quer conversar sobre projet
 - 💼 [LinkedIn](https://www.linkedin.com/in/alessandra-batista-52195724b/)
 - 💌 Email: alessandra.batista.0305@gmail.com
 
----
 
-> "Não estou aqui só para escrever código. Estou aqui para construir pontes — entre pessoas, ideias e possibilidades." 🌈✨
