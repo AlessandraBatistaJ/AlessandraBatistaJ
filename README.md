@@ -1,63 +1,71 @@
-# 👋 Oi! Eu sou a Alessandra Batista  
+👋 Oi! Eu sou a Alessandra Batista
 
-🎨 **Desenvolvedora Web & Entusiasta de Dados**  
-💡 Apaixonada por transformar ideias em soluções digitais e insights valiosos  
-🚀 Unindo café, código, dados e curiosidade para construir o futuro da tecnologia  
+💻 Desenvolvedora Full Stack em formação | C# / .NET | Web & Dados
+🚀 Transformando ideias em soluções digitais com código, lógica e curiosidade
 
----
+🌟 Sobre mim
 
-## 🌟 Sobre mim  
+Sou estudante de Análise e Desenvolvimento de Sistemas e construo minha trajetória na tecnologia com foco em desenvolvimento full stack, unindo front-end, back-end e dados.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória no universo tech com foco em **desenvolvimento web** e **business intelligence**.  
-Tenho experiência em **bootcamps práticos** como o da **Proz** (desenvolvimento web) e atualmente participo do **Bootcamp de Business Intelligence da WoMakersCode (ago/2025 – mar/2026)**, onde estou expandindo minhas habilidades em **análise de dados, dashboards e tomada de decisão baseada em dados**.  
+Minha formação prática vem de bootcamps intensivos e projetos reais, que me permitiram desenvolver base sólida em desenvolvimento web, além de vivência com análise de dados e business intelligence.
 
-Também faço parte de comunidades como a **Reprograma** e a **Programaria**, que fortalecem minha jornada e me conectam com outras mulheres na tecnologia.  
+Participei do Bootcamp de Desenvolvimento Web da Proz, onde atuei em projetos com HTML, CSS, JavaScript, React e Git, e do Bootcamp de Business Intelligence da WoMakersCode, ampliando minha visão sobre dados, métricas e tomada de decisão.
 
----
+Atualmente, faço parte do Programa de Formação CodeRDIversity, promovido pela RDI em parceria com a Prosper, aprofundando conhecimentos em C# / .NET, orientação a objetos, design patterns, APIs, banco de dados, testes unitários e boas práticas de engenharia de software.
 
-## 💻 Tecnologias e Ferramentas  
+Também integro comunidades como Reprograma e Programaria, que fortalecem minha jornada, ampliam meu networking e reforçam meu compromisso com diversidade e colaboração na tecnologia.
 
-**Desenvolvimento Web**  
-- HTML5 | CSS3 | JavaScript ES6+  
-- React (SPA, componentes reutilizáveis)  
-- Bootstrap | TailwindCSS (design responsivo e moderno)  
-- Git & GitHub (versionamento e colaboração)  
+💻 Tecnologias e Ferramentas
+Desenvolvimento Full Stack
 
-**Dados & BI**  
-- SQL (consultas e modelagem de dados)  
-- Power BI (dashboards e relatórios interativos)  
-- Excel Avançado (análises e métricas)  
+C# / .NET (POO, classes, interfaces, abstrações)
 
----
+APIs REST e integração de sistemas
 
-## 📂 Projetos em destaque  
+SQL (modelagem e operações CRUD)
 
-### 📝 [toDoReact](https://github.com/AlessandraBatistaJ/toDoReact)  
-Um app de lista de tarefas feito com **React**. Simples, prático e direto ao ponto!  
-🛠️ _React, JavaScript, CSS_  
+Front-End
 
----
+HTML5 | CSS3 | JavaScript (ES6+)
 
-### 🕹️ [Loja de Games](https://github.com/AlessandraBatistaJ/lojaGames)  
-Projeto de uma loja virtual de jogos, com visual moderno e foco em navegação fluida.  
-🛠️ _HTML, CSS, JavaScript_  
+React (SPAs e componentes reutilizáveis)
 
----
+Bootstrap | TailwindCSS
 
-### 📊 Projetos de BI (em breve)  
-Dashboards e análises criadas durante o **Bootcamp de Business Intelligence (WoMakersCode)**.  
-🛠️ _Power BI, SQL, Excel_  
+Git & GitHub
 
----
+Dados & BI
 
-## 🚀 Vem mais por aí…  
-Estou sempre atualizando meu GitHub com novos estudos, desafios e projetos práticos em **web** e **dados**.  
+SQL (consultas e análise)
 
----
+Power BI (dashboards e relatórios)
 
-## 🤝 Vamos trocar ideia?  
+Excel (análises e métricas)
 
-Se você curte tecnologia, BI, acessibilidade, design ou quer conversar sobre projetos, bora se conectar!  
+📂 Projetos em destaque
+📝 toDoReact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alessandra-batista-52195724b/)  
-- 💌 Email: alessandra.batista.0305@gmail.com  
+Aplicação de lista de tarefas desenvolvida com React, com foco em lógica de estado e organização de componentes.
+🛠️ React, JavaScript, CSS
+
+🕹️ Loja de Games
+
+Projeto de loja virtual de jogos, com atenção à experiência do usuário e estruturação do front-end.
+🛠️ HTML, CSS, JavaScript
+
+⚙️ Projetos em C# / .NET (em evolução)
+
+Projetos desenvolvidos durante o CodeRDIversity, aplicando conceitos de POO, APIs, banco de dados e testes unitários.
+🛠️ C#, .NET, SQL
+
+🚀 Em constante evolução
+
+Estou sempre atualizando meu GitHub com novos estudos, desafios e projetos práticos, buscando evoluir como desenvolvedora full stack e construir soluções bem estruturadas, escaláveis e orientadas a boas práticas.
+
+🤝 Vamos trocar ideia?
+
+Se você curte C#, .NET, desenvolvimento full stack, web ou dados, será um prazer trocar experiências.
+
+💼 LinkedIn
+
+💌 Email: alessandra.batista.0305@gmail.com
