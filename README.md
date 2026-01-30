@@ -2,8 +2,9 @@
 👋 Oi! Eu sou a Alessandra Batista
 
 💻 Desenvolvedora Full Stack em formação | C# / .NET | Web & Dados
+
 🚀 Transformando ideias em soluções digitais com código, lógica e curiosidade
-☕ Café, aprendizado contínuo e prática no dia a dia
+
 
 🌟 Sobre mim
 
