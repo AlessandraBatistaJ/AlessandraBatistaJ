@@ -1,6 +1,3 @@
-
-# AlessandraBatistaJ/README.md
-
 👋 Oi! Eu sou a Alessandra Batista
 💻 Desenvolvedora Full Stack | C# / .NET | Web & Dados
 🚀 Transformando ideias em soluções digitais com código, lógica e curiosidade
